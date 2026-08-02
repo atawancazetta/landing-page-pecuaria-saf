@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tabapuasaf.vercel.app/sitemap.xml
